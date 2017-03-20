@@ -1,5 +1,6 @@
 # Problem-Solving-Techniques-Using-C-Lab
 MCA105P: PROBLEM SOLVING TECHNIQUES USING C LAB as per Bangalore Univeristy Syllabus
+By: Safwan Alselwi https://www.youtube.com/safwanalselwi
 
 1. Write a C Program to demonstrate all the operators.
 2. Write a C Program for electricity bill tacking different Categories of users, different slabs in each category.
